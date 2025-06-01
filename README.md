@@ -102,6 +102,6 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Sebastian Jorge Colon -https://www.linkedin.com/in/sebastianjcolon/ - sebastian.j.colon@runi-uni.com
 
-Project Link: [https://github.com/YOUR_USERNAME/EVTX-Python-Token-Embedder](https://github.com/YOUR_USERNAME/EVTX-Python-Token-Embedder)
+Project Link: https://github.com/SebbyC/EVTX-Python-Token-Embedder
